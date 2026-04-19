@@ -60,10 +60,10 @@ Cohort analysis groups customers based on their first purchase month and tracks 
 ## Dashboard Preview
 
 ### Sales Overview
-![alt text](Sales_Overview-1.jpg)
+![Alt text](Images/Sales_Overview.jpg)
 
 ### Cohort Analysis
-![alt text](Cohort_Analysis.jpg)
+![Alt text](Images/Cohort_Analysis.jpg)
 
 ## Repository Contents
 
