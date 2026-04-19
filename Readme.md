@@ -60,10 +60,10 @@ Cohort analysis groups customers based on their first purchase month and tracks 
 ## Dashboard Preview
 
 ### Sales Overview
-![alt text](file:///c%3A/Users/thiru/OneDrive/Desktop/E-Commerce%20Customer%20Retention%20%26%20Cohort%20Analysis/Images/Sales_Overview.jpg)
+![alt text](Sales_Overview-1.jpg)
 
 ### Cohort Analysis
-![alt text](file:///c%3A/Users/thiru/OneDrive/Desktop/E-Commerce%20Customer%20Retention%20%26%20Cohort%20Analysis/Images/Cohort_Analysis.jpg)
+![alt text](Cohort_Analysis.jpg)
 
 ## Repository Contents
 
